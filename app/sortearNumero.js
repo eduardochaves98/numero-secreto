@@ -1,5 +1,5 @@
-let max = 100;
-let min = 10;
+let max = 1000;
+let min = 0;
 
 const numeroSecreto = gerarNumeroAleatorio();
 
